@@ -1,5 +1,5 @@
 ## Inventory and Sales Management System (SPA)
-An Inventory and Sales Management System using __Laravel 7 (PHP Framework)__, __Vue js__ and __RESTful API__ with support for __MySQL__ databases. It's a Single Page Application __(SPA)__
+An Inventory and Sales Management System using __Laravel (PHP Framework)__, __Vue js__ and __RESTful API__ with support for __MySQL__ databases. It's a Single Page Application __(SPA)__
 
 ## Features
 
@@ -21,23 +21,12 @@ An Inventory and Sales Management System using __Laravel 7 (PHP Framework)__, __
 ## Installation Instruction
 
 - Clone the repository with `git clone`
-- Copy .env.example file to .env and edit database credentials there
+- Cd project
 - Run `composer install`
+- Run `cp .env.example .env`
 - Run `php artisan key:generate`
-- Run `php artisan migrate --seed` (It has some seeded data for your testing)
-- Run `npm install && npm run prod`
-- That's it: launch the main URL and login with default credentials `admin@admin.com` - `password`
-
-## Contribution Guideline
-
-- Fork the repository
-- Clone the repository locally
-- Run `git checkout dev`
-- Create a new local branch
-- Work on your local branch
-- Push to remote
-- When work is tested, done or ready, push to remote
-- Merge to dev
+- Run `php artisan migrate 
+- Run `php artisan serve
 
 ## License
 
