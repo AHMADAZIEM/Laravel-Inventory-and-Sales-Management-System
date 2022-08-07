@@ -9,6 +9,8 @@ An Inventory and Sales Management System using __Laravel (PHP Framework)__, __Vu
 - Expense Management
 - Pay Salary to Employee
 
+
+
 ## Packages Used
 
 - Vue Router
