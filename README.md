@@ -9,6 +9,9 @@ An Inventory and Sales Management System using __Laravel (PHP Framework)__, __Vu
 - Expense Management
 - Pay Salary to Employee
 
+![ivs](https://user-images.githubusercontent.com/55674070/183290755-7f9e871a-9e70-467c-ad1d-0085588b50bb.JPG)
+![ivs2](https://user-images.githubusercontent.com/55674070/183290761-e8215cdb-33ab-47db-a1bb-7ed686a6a66d.JPG)
+![ivs3](https://user-images.githubusercontent.com/55674070/183290762-bac9496d-35fd-4dc1-85a6-d53117a34bd9.JPG)
 
 
 ## Packages Used
